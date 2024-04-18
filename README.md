@@ -1,5 +1,5 @@
 ---
-ms.date: 04/05/2023
+ms.date: 04/18/2024
 ---
 # PowerShellGet & PSGallery documentation
 
